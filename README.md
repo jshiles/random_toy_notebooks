@@ -6,4 +6,4 @@ A backtracking [Sudoku](notebooks/sudoku_solver.ipynb) solver with lazy evaluati
 
 A [notebook](notebooks/google_trends_stl_loess.ipynb) to answer if people are drinking more or less in COVID times. 
 
-A [answer](notebooks/estimate_pi.ipynb) to a fun little interview question I saw on Reddit about estimating Pi given a certain function. 
+An [answer](notebooks/estimate_pi.ipynb) to a fun little interview question I saw on Reddit about estimating Pi given a certain function. 
